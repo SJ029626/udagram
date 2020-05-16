@@ -48,6 +48,8 @@ Add your own domain name and have it point to the running services (try adding a
 
 Project Req:
 Elasticbean Stack: http://done-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://image.freepik.com/free-vector/dracula-head-cartoon-vector-character_43623-452.jpg
+
+
 AWS Ec2 machine: http://ec2-54-211-196-147.compute-1.amazonaws.com:8082/filteredimage?image_url=https://image.freepik.com/free-vector/dracula-head-cartoon-vector-character_43623-452.jpg
 
 
